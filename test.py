@@ -1,3 +1,4 @@
+print('heleleo world hrh')
 import json
 
 words = json.load(open("dictionary.json"))
