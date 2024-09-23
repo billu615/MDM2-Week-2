@@ -1,4 +1,5 @@
-print('heleleo world hrh')import json
+print('heleleo world hrh')
+import json
 
 words = json.load(open("dictionary.json"))
 alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m",
